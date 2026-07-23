@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Damindu%20Prasadith&reversal=false&fontSize=42&fontColor=fff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Undergraduate&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Damindu%20Abeygunasekara&reversal=false&fontSize=42&fontColor=fff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Undergraduate&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+full-stack+%26+AI-powered+products;Final-year+CS+%28Data+Science%29+%40+Uni+of+Kelaniya;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=daminduprasadith&label=Profile%20views&color=0e75b6&style=flat" alt="daminduprasadith" />
+<img src="https://komarev.com/ghpvc/?username=daminduabeygunasekara&label=Profile%20views&color=0e75b6&style=flat" alt="daminduabeygunasekara" />
 
 </div>
 
