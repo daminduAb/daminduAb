@@ -30,7 +30,7 @@
 | **Vahana.lk** | AI-powered vehicle marketplace — final year project, deployed on AWS EC2 with a CI/CD pipeline | Next.js · Node.js · PostgreSQL · AWS |
 | **DevForge** | Full-stack project & team task management platform with JWT auth and role-based access control | Next.js · Express · Prisma · PostgreSQL |
 | **HospitalQ** | Hospital queue management system with an ML-based wait-time predictor | Java (Servlets/JSP) · MySQL · Python · Flask |
-| **[Portfolio](https://portfolio-gilt-nu-64.vercel.app/)** | Personal developer portfolio site | Next.js · Tailwind CSS |
+| **https://damindu-two.vercel.app** | Personal developer portfolio site | Next.js · Tailwind CSS |
 
 <sub>💡 Swap in your repo / live-demo links once you have them handy.</sub>
 
