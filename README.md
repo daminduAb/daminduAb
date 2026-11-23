@@ -37,7 +37,7 @@
 ### 🛠️ Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,html,css,react,nextjs,tailwind&theme=dark" />
 
-### 🗄️ Backend, Data & ML
+### 🗄️ Backend, Data & ML(.NET)
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,postgres,mongodb,mysql,sklearn&theme=dark" />
 
 ### ⚙️ Tools & Platforms
